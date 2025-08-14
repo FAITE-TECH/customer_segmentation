@@ -1,0 +1,4 @@
+﻿InvoiceNo,StockCode,Description,Quantity,InvoiceDate,UnitPrice,CustomerID,Name,Email,Country
+1,12,Laptop,1,1/1/2025,1000,101,Hasitha,bdilshan84@gmail.com,sri lanka
+2,13,Clothes,10,1/4/2024,50,102,Ridmi,ridmit12@gmail.com,sri lanka
+3,14,Phone,100,8/20/2024,500,103,Safana,saks200012@gmail.com,sr lanka
